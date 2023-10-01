@@ -4,7 +4,7 @@
 
 ## Description
 
-PokemonCenter.com is the official online store for all things Pokémon! It's the ultimate destination for Pokémon enthusiasts, offering a wide range of products, from plush toys and trading cards to clothing and accessories. 🎉
+PokemonCenter.com is the official online store for all things Pokémon! It's the ultimate destination for Pokémon enthusiasts, offering a wide range of products, from plush toys and trading cards to clothing and accessories. 🎉 Scrappey allows you to scrape Pokemoncenter.com
 
 Collect links to Pokémon Center's social media profiles for updates and news.
 
