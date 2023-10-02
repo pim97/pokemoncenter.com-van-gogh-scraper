@@ -21,7 +21,7 @@ async function run() {
 
         const scrape = await scrappey.get({
             "url": "https://www.pokemoncenter.com/en-ca/search/van-gogh",
-            "session": session,
+            "session": session.session,
         })
 
         console.log(scrape)
