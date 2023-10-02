@@ -26,11 +26,9 @@ async function run() {
 
         console.log(scrape)
 
-        const destroy = await scrappey.destroySession({
+        await scrappey.destroySession({
             "session": session.session
         })
-
-        console.log(destroy)
 
     } catch (error) {
         console.error(error);
