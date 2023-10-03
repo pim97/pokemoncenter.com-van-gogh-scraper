@@ -17,6 +17,7 @@ async function run() {
          */
         const session = await scrappey.createSession({
             // proxy: PROXY //optional
+            // proxyCountry: 'UnitedStates' //select country for better success rate
         })
 
         const scrape = await scrappey.get({
