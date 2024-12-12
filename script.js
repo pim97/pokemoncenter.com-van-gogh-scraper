@@ -23,6 +23,7 @@ async function run() {
         const scrape = await scrappey.get({
             "url": "https://www.pokemoncenter.com/en-ca/search/van-gogh",
             "session": session.session,
+            "datadomeByass": true
         })
 
         console.log(scrape)
